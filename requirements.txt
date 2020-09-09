@@ -1,5 +1,5 @@
 jupyter
 voila
 numpy
-matplotlib.pyplot
+matplotlib
 ipywidgets
