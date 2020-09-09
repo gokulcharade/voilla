@@ -1,5 +1,8 @@
 jupyter
 voila
+pycountry
+plotly.express
+pandas
 numpy
 matplotlib
 ipywidgets
