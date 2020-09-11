@@ -1,4 +1,3 @@
 voila
-pycountry
-plotly.express
-pandas
+jupyter
+requests
